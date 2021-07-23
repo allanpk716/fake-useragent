@@ -25,7 +25,7 @@
 ## 安装
 
 ```
-$ go get github.com/EDDYCJY/fake-useragent
+$ go get github.com/allanpk716/fake-useragent
 ```
 
 ## 用法
@@ -36,7 +36,7 @@ package main
 import (
 	"log"
 
-	"github.com/EDDYCJY/fake-useragent"
+	"github.com/allanpk716/fake-useragent"
 )
 
 func main() {

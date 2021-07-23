@@ -1,5 +1,4 @@
-github.com/EDDYCJY/fake-useragent v0.2.0 h1:Jcnkk2bgXmDpX0z+ELlUErTkoLb/mxFBNd2YdcpvJBs=
-github.com/EDDYCJY/fake-useragent v0.2.0/go.mod h1:5wn3zzlDxhKW6NYknushqinPcAqZcAPHy8lLczCdJdc=
+
 github.com/PuerkitoBio/goquery v1.7.1 h1:oE+T06D+1T7LNrn91B4aERsRIeCLJ/oPSa6xB9FPnz4=
 github.com/PuerkitoBio/goquery v1.7.1/go.mod h1:XY0pP4kfraEmmV1O7Uf6XyjoslwsneBbgeDjLYuN8xY=
 github.com/andybalholm/cascadia v1.2.0 h1:vuRCkM5Ozh/BfmsaTm26kbjm0mIOM3yS5Ek/F5h18aE=
