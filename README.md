@@ -2,7 +2,7 @@
 
 > fork from [eddycjy/fake-useragent: A wide variety of random useragents (github.com)](https://github.com/eddycjy/fake-useragent)
 >
-> 因为项目引用后，Windows 下 go mod tidy 是没有问题的，但是 docker 下  go mod tidy  编译就遇到问题。所以完全克隆了一份，排除一下问题。猜测是大写用户名导致？
+> 弃了，集成到 [allanpk716/rod_helper: go-rod 的封装，适用于爬虫任务 (github.com)](https://github.com/allanpk716/rod_helper) 中
 
 A wide variety of random useragents
 
